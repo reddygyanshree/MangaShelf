@@ -16,6 +16,8 @@ Dependencies used-
 5.Room Database - 2.5.0
 6.Java version - 17
 
+Architecture used- MVVVM
+
 Troubleshooting-
 1.Run Invalidate Caches & Restart in Android Studio.
 2.Clean Rebuild the project.
